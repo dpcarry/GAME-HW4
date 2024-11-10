@@ -1,7 +1,7 @@
 Player Commands:
 right direction + A - right charge attack, (A only works when combined with left/right direction)
 left direction + A - left charge attack,
-S - downward dash(also kills on contact)
+S - downward dash(also kills on contact), up down left right are movement commands as usual.
 
 
 Enemies:
